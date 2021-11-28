@@ -1,4 +1,4 @@
-[![logo](https://github.com/VenkyRock0/MyResume/blob/main/assets/A_IT_GUY.png)
+![logo](https://github.com/VenkyRock0/MyResume/blob/main/assets/A_IT_GUY.png)
 # Hi There, here is my Resume😍...
 
 <!--
