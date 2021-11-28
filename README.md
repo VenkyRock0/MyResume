@@ -37,5 +37,5 @@ Here some ideas to get Started:
 -->
 
 Contact Me:
-[Twiiter]https://twitter.com/_VenkateshVenky?t=ldyXoE0cfbSLWxPVL0CIBw&s=09
- | [Instagram]https://instagram.com/venkyrock0?utm_medium=copy_link | [Facebook]https://www.facebook.com/VenkyRock0
+[Twiiter](https://twitter.com/_VenkateshVenky?t=ldyXoE0cfbSLWxPVL0CIBw&s=09)
+ | [Instagram](https://instagram.com/venkyrock0?utm_medium=copy_link) | [Facebook](https://www.facebook.com/VenkyRock0)
