@@ -35,3 +35,7 @@ Here some ideas to get Started:
 -Software: Windows XP, 7, 8.1, 10, Unix
 -Database: MYSQL, Oracle
 -->
+
+Contact Me:
+[Twiiter]https://twitter.com/_VenkateshVenky?t=ldyXoE0cfbSLWxPVL0CIBw&s=09
+ | [Instagram]https://instagram.com/venkyrock0?utm_medium=copy_link | [Facebook]https://www.facebook.com/VenkyRock0
