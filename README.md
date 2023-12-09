@@ -4,7 +4,7 @@
 <!--
 Here some ideas to get Started:
 
-- I'm Corrently Persuing MCA in CMRIT,Bangalore.
+- I Completed my MCA in CMRIT,Bangalore.
 - I Completed my Bachelor of Computer Appliction at SRS First Grade College, Chitradurga, Karnataka.
 - I also Completed my 12th and !0th in st.Aloysius College, Harihar, Karnakata.
 
@@ -16,9 +16,9 @@ Here some ideas to get Started:
 
 -Projects:
 -College Portal using Android - Completed
--Live Cricket Scoreboard Using Python - In Progress
--Online Shopping Website - In Progress
--Automatic Solar Tracking System using IoT - In Progress
+-Oniline Food Order Website using React - In Progress
+-Online Shopping Website - Completed
+-Expense Tracer using React - CCompleted
 
 -Achievements:
 -Got Second Price at Taluk Level Kabbaddi Tourniment.
@@ -32,9 +32,8 @@ Here some ideas to get Started:
 -Languages Known : English, Kannada, Hindi
 
 -Technical Skills
--Languages: C (Intermediate), C ++ (Intermediate), JAVA.
+-Languages: HTML, CSS, Javascript, Bootstrap, React.
 -Software: Windows XP, 7, 8.1, 10, Unix
--Database: MYSQL, Oracle
 -->
 
 Contact Me:
